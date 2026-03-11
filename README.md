@@ -37,7 +37,6 @@ Diseñar e implementar un sistema electrónico capaz de detectar posibles caída
 -Medir el movimiento del dispositivo utilizando un sensor.
 -Analizar los cambios en el movimiento para identificar posibles caídas.
 -Activar una alerta cuando se detecte un evento sospechoso.
--Mostrar información básica del sistema durante su funcionamiento.
 
 
 ## Alcance del proyecto
