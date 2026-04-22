@@ -2,10 +2,10 @@
 
 ## Integrantes
 
--Jesus Armando Diaz (Technical Lead)
+-Jesus Diaz (Technical Lead)
 -Valeria Orozco (Hardware Integration Engineer)
--Sofia Perez Quichincha (Firmware Engineer)
--Samuel Vargas Montoya(Verification & Testing Engineer)
+-Sofia Perez(Firmware Engineer)
+-Samuel Vargas(Verification & Testing Engineer)
 
 ## INTRODUCCION
 
