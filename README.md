@@ -3,7 +3,6 @@
 ## Integrantes
 
 -Jesus Diaz (Technical Lead)
--Valeria Orozco (Hardware Integration Engineer)
 -Sofia Perez(Firmware Engineer)
 -Samuel Vargas(Verification & Testing Engineer)
 
